@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "BAKI",
+  "base_artist": "Jinmenusagi",
+  "createdAt": "2026-02-16T12:00:03.133667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baki",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/01_Baki_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baki",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/02_Baki_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Over the Top (Baki) [feat. Frazer]",
+      "artist": "Daddyphatsnaps",
+      "has_synced": false,
+      "path": "select/03_Over_the_Top_(Baki)_[feat._Frazer]_Daddyphatsnaps.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Over The Top (Baki)",
+      "artist": "Daddyphatsnaps, Frazer",
+      "has_synced": false,
+      "path": "select/04_Over_The_Top_(Baki)_Daddyphatsnaps,_Frazer.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baki",
+      "artist": "Haarper",
+      "has_synced": false,
+      "path": "select/05_Baki_Haarper.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can Bakı",
+      "artist": "Eyyub Yaqubov",
+      "has_synced": true,
+      "path": "select/06_Can_Bakı_Eyyub_Yaqubov.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bel Omr Elli Baki",
+      "artist": "Hiba Tawaji",
+      "has_synced": true,
+      "path": "select/07_Bel_Omr_Elli_Baki_Hiba_Tawaji.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tujhme hai Aag Baki",
+      "artist": "Romy",
+      "has_synced": true,
+      "path": "select/08_Tujhme_hai_Aag_Baki_Romy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Salim Smart - Zana Baki Labarina (Lyrics Video)",
+      "artist": "Salim Smart",
+      "has_synced": false,
+      "path": "select/09_Salim_Smart_-_Zana_Baki_Labarina_(Lyrics_Video)_Salim_Smart.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Zana Baki Labarina",
+      "artist": "Salim Smart",
+      "has_synced": true,
+      "path": "select/10_Zana_Baki_Labarina_Salim_Smart.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Over The Top (Baki)",
+      "artist": "Daddyphatsnaps",
+      "has_synced": false,
+      "path": "select/11_Over_The_Top_(Baki)_Daddyphatsnaps.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BAKI",
+      "artist": "The Worst of Us",
+      "has_synced": true,
+      "path": "select/12_BAKI_The_Worst_of_Us.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ache Baki",
+      "artist": "Nachiketa Chakraborty",
+      "has_synced": true,
+      "path": "select/13_Ache_Baki_Nachiketa_Chakraborty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bhalobasha Baki",
+      "artist": "Popeye Bangladesh",
+      "has_synced": true,
+      "path": "select/14_Bhalobasha_Baki_Popeye_Bangladesh.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baki vs Yujiro Rap. El Camino de un Hombre",
+      "artist": "DarckStar",
+      "has_synced": false,
+      "path": "select/15_Baki_vs_Yujiro_Rap._El_Camino_de_un_Hombre_DarckStar.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aur Kuch Baki",
+      "artist": "Yasser Desai",
+      "has_synced": true,
+      "path": "select/16_Aur_Kuch_Baki_Yasser_Desai.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "BAKI",
+      "artist": "KOH",
+      "has_synced": true,
+      "path": "select/17_BAKI_KOH.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "BAKI // ROT",
+      "artist": "Kill Dyll",
+      "has_synced": false,
+      "path": "select/18_BAKI___ROT_Kill_Dyll.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Raat Baki",
+      "artist": "Iulia Vantur",
+      "has_synced": true,
+      "path": "select/19_Raat_Baki_Iulia_Vantur.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAKI (feat. 仙人掌)",
+      "artist": "Jinmenusagi",
+      "has_synced": false,
+      "path": "select/pl_01_BAKI_(feat._仙人掌)_Jinmenusagi.txt"
+    }
+  ]
+}
